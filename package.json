@@ -4,7 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "wdio": "wdio run ./wdio.conf.js"
   },
   "repository": {
@@ -12,8 +11,8 @@
     "url": "git+https://github.com/zeljkofilipin/webdriverio-testrunner.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Željko Filipin",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zeljkofilipin/webdriverio-testrunner/issues"
   },
