@@ -1,8 +1,9 @@
 {
   "name": "webdriverio-testrunner",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "wdio.conf.js",
   "scripts": {
     "wdio": "wdio run ./wdio.conf.js"
   },
